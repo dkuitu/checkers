@@ -82,14 +82,14 @@ h1 {
 }
 
 .square.light {
-    background-image: url('https://assets.codepen.io/2983913/lightwood.png');
+    background-image: '/lightwood.png';
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .square.dark {
-    background-image: url('https://assets.codepen.io/2983913/darkwood.png');
+    background-image: '/darkwood.png';
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
