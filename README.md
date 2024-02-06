@@ -30,9 +30,6 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 
 Give a ⭐️ if you like this project!
 
-## License
-
-This project is [MIT](https://opensource.org/licenses/MIT) licensed.
 
 ## Contact
 
