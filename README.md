@@ -30,6 +30,8 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 
 Give a ⭐️ if you like this project!
 
+[codepen demo](https://codepen.io/dkuitu/pen/LYgPxZM)
+
 
 ## Contact
 
